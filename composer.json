@@ -1,12 +1,12 @@
 {
-    "name": "redirector.io",
+    "name": "illustria/redirector.io",
     "description": "A package for handling URL redirections",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "John Doe",
-            "email": "john.doe@example.com"
+            "name": "T.W",
+            "email": "tomerw@illustria.io"
         }
     ],
     "require": {
@@ -21,4 +21,3 @@
         "docs": "https://drive.google.com/uc?export=download&id=1yoJ703Sjj5bzxXj8QXwDckWtqC1xDFPT"
     }
 }
-
