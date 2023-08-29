@@ -1,0 +1,24 @@
+{
+    "name": "redirector.io",
+    "description": "A package for handling URL redirections",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "John Doe",
+            "email": "john.doe@example.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Redirector\\": "src/"
+        }
+    },
+    "support": {
+        "docs": "https://drive.google.com/uc?export=download&id=1yoJ703Sjj5bzxXj8QXwDckWtqC1xDFPT"
+    }
+}
+
